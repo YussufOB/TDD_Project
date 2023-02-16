@@ -1,29 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -110,11 +86,17 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mert Kaya**
+👤 **Bashir Yussuf**
 
 - GitHub: [@yussufOB](https://github.com/yussufOB)
 - Twitter: [@_ybash](https://twitter.com/_ybash)
 - LinkedIn: [yussuf-Bashir](https://www.linkedin.com/in/yussuf-bashir/)
+
+👤 **Fuad Nabiyev**
+
+- GitHub: [@githubhandle](https://github.com/FuadNabi)
+- Twitter: [@twitterhandle](https://twitter.com/FuadNebiyev2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fuad-nabiyev/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -157,7 +139,7 @@ I would like to thank Microverse for the project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/yussufOB/TDD_Project/blob/dev/MIT.md) licensed.
+This project is [MIT](https://github.com/YussufOB/TDD_Project/blob/dev/LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
