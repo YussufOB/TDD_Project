@@ -18,6 +18,10 @@ describe Solver do
     result = solver.factorial(8)
     expect(result).to eq(40_320)
   end
+
+  it 'Negative number factorial should rasie an error' do
+    expect { solver.factorial(-1) }.to raise_error(Exception)
+  end
 end
 
 describe Solver do
