@@ -22,21 +22,16 @@ end
 
 describe Solver do
   context 'Reverse Function Unit Testing'
-  it 'Should return trem' do
+  it 'Should return hsab' do
     solver = Solver.new
-    result = solver.reverse('mert')
-    expect(result).to eq('trem')
+    result = solver.reverse('bash')
+    expect(result).to eq('hsab')
   end
-
-  it 'Should return missaw' do
+  
+  it 'Should return dauf' do
     solver = Solver.new
-    result = solver.reverse('wassim')
-    expect(result).to eq('missaw')
-  end
-  it 'Should return tsurt' do
-    solver = Solver.new
-    result = solver.reverse('trust')
-    expect(result).to eq('tsurt')
+    result = solver.reverse('fuad')
+    expect(result).to eq('dauf')
   end
 end
 
