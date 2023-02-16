@@ -11,11 +11,11 @@ class Solver
 
   def fizzbuzz(number)
     if (number % 5).zero? && (number % 3).zero?
-      'fizzbuzz'
+      'Fizzbuzz'
     elsif (number % 5).zero?
-      'buzz'
+      'Buzz'
     elsif (number % 3).zero?
-      'fizz'
+      'Fizz'
     else
       number.to_s
     end

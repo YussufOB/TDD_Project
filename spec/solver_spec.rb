@@ -24,14 +24,14 @@ describe Solver do
   context 'Reverse Function Unit Testing'
   it 'Should return hsab' do
     solver = Solver.new
-    result = solver.reverse('bash')
-    expect(result).to eq('hsab')
+    result = solver.reverse('Bash')
+    expect(result).to eq('hsaB')
   end
-  
+
   it 'Should return dauf' do
     solver = Solver.new
-    result = solver.reverse('fuad')
-    expect(result).to eq('dauf')
+    result = solver.reverse('Fuad')
+    expect(result).to eq('dauF')
   end
 end
 
@@ -40,19 +40,19 @@ describe Solver do
   it 'Should return fizz' do
     solver = Solver.new
     result = solver.fizzbuzz(12)
-    expect(result).to eq('fizz')
+    expect(result).to eq('Fizz')
   end
 
   it 'Should return buzz' do
     solver = Solver.new
     result = solver.fizzbuzz(10)
-    expect(result).to eq('buzz')
+    expect(result).to eq('Buzz')
   end
 
   it 'Should return fizzbuzz' do
     solver = Solver.new
     result = solver.fizzbuzz(15)
-    expect(result).to eq('fizzbuzz')
+    expect(result).to eq('Fizzbuzz')
   end
 
   it 'Should return "7"' do

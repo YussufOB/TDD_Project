@@ -1,29 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -110,11 +86,17 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mert Kaya**
+👤 **Bashir Yussuf**
 
 - GitHub: [@yussufOB](https://github.com/yussufOB)
 - Twitter: [@_ybash](https://twitter.com/_ybash)
 - LinkedIn: [yussuf-Bashir](https://www.linkedin.com/in/yussuf-bashir/)
+
+👤 **Fuad Nabiyev**
+
+- GitHub: [@githubhandle](https://github.com/FuadNabi)
+- Twitter: [@twitterhandle](https://twitter.com/FuadNebiyev2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fuad-nabiyev/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
