@@ -19,6 +19,13 @@ describe Solver do
     expect(result).to eq(40_320)
   end
 
+  it 'Given 0 factorial should return 1' do
+    solver = Solver.new
+    result = solver.factorial(0)
+
+    expect(result).to eq 1
+  end
+
   it 'Negative number factorial should rasie an error' do
     expect { solver.factorial(-1) }.to raise_error(Exception)
   end
